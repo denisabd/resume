@@ -34,22 +34,22 @@ knit: pagedown::chrome_print
 
 ## Highlights {#highlights}
 
--   Innovator
--   Researcher
--   Quick learner
--   Motivator
--   Complex problem solver
+- Innovator
+- Researcher
+- Quick learner
+- Motivator
+- Complex problem solver
 
 ## Skills {#skills}
 
--   R Programming: package development, shiny, plumber, promises, prophet
--   Machine Learning
--   Time Series Forecasting
--   BI/ETL Tools: Alteryx, Tableau
--   Python
--   SQL, Impala, ODBC
--   Git, Docker
--   Applied JavaScript for R/Python web/plotting frameworks
+- R: package development, shiny, plumber, promises, prophet etc.
+- Python: package development, pandas, numpy, scikit-learn etc.
+- Machine Learning
+- Time Series Forecasting
+- BI/ETL Tools: Alteryx, Tableau
+- SQL, Impala, ODBC
+- Git, Docker
+- Applied JavaScript for R/Python web/plotting frameworks
 
 ## Languages {#languages}
 
@@ -62,7 +62,7 @@ knit: pagedown::chrome_print
 
 ### Manager, Data Science Innovation Team
 
-Data Science Manager/Principal Data Scientist with 6 years of experience in data science, analytics, and process improvement. Leading development of tools as well as engagements with internal customers. Highly proficient with machine learning, time series forecasting, web application development and functional programming in R. Creator of multiple internal R packages driving insights from the business data.
+Data Science Manager/Principal Data Scientist with 6 years of experience in data science, analytics, and process improvement. Leading development of tools as well as engagements with internal customers. Highly proficient with machine learning, time series forecasting, web application development and programming. Creator of multiple internal & open source packages (R, Python) driving insights from the business data.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -106,10 +106,10 @@ Prague, CZ
 
 Jul 2018 - Jan 2020
 
--   Creation and deployment of machine learning models
--   Author and maintainer of internal R package that covers the whole machine learning modelling and tracking pipeline
--   Shiny Applications for machine learning and time series analysis
--   Creation of time series/capacity planning framework with multiple applications across the enterprise
+- Creation and deployment of machine learning models
+- Author and maintainer of internal R package that covers the whole machine learning modelling and tracking pipeline
+- Shiny Applications for machine learning and time series analysis
+- Creation of time series/capacity planning framework with multiple applications across the enterprise
 
 ### Data Analytics Associate
 
@@ -119,9 +119,9 @@ Prague, CZ
 
 Sep 2016 - Jun 2018
 
--   Creation of operational reporting that is utilized by hundreds of users
--   Data engineering in ETL (Alteryx) and creation of dozens of reports in Tableau, including some of the most viewed in function
--   Development of topic modelling, machine learning, NLP, time series and process mining solutions including high impact projects like help desk topic modelling and functional audit analysis
+- Creation of operational reporting that is utilized by hundreds of users
+- Data engineering in ETL (Alteryx) and creation of dozens of reports in Tableau, including some of the most viewed in function
+- Development of topic modelling, machine learning, NLP, time series and process mining solutions including high impact projects like help desk topic modelling and functional audit analysis
 
 ### Master Data Specialist
 
@@ -132,7 +132,7 @@ Prague, CZ
 Apr 2014 - Aug 2016
 
 -   Various roles in EMEA Medical Devices customer master data team, from junior to specialist.
--   Responsible for reporting automation, user templates creation and team performance tracking with heavy use of VBA and SQL
+-   Responsible for reporting automation, user templates creation and log tracking with VBA and SQL
 
 ## Products {data-icon="box"}
 
@@ -141,7 +141,7 @@ Apr 2014 - Aug 2016
 #### Natural Language Generation (NLG) Library
  
 #### Scalable Platform for Real-Time data analytics
-Insighter - real-time analytics platform/application with lightning-fast database connection that allows to query the data with natural language term search, similar to commercial tools like [ThoughtSpot](https://www.thoughtspot.com/), modern visualizations using [Echarts](https://echarts.apache.org/en/index.html), forecasting, NLG, dynamic report generation, root-cause analysis. Adopted by both business customers and data professionals.
+Insighter - real-time analytics platform/application with lightning-fast database connection that allows to query the data with natural language term search, similar to commercial tools like [ThoughtSpot](https://www.thoughtspot.com/), modern visualizations using [Echarts](https://echarts.apache.org/en/index.html), forecasting, NLG, dynamic report generation, root-cause analysis. Used by business data professionals.
 
 #### Microservices (REST API) for Forecasting & NLG
  
