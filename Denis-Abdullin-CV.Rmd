@@ -1,0 +1,182 @@
+---
+title: "Denis Abdullin's resume"
+author: Denis Abdullin
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: 
+      - style.css         # OVERIDE CERTAIN FUNCTIONS OF CSS
+      - resume               # DEFAULT FILE
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+```{css, echo=FALSE}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
+# Aside
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-website"></i> 
+-   <i class="fa fa-envelope"></i> [denisabdullincz\@gmail.com](mailto:denisabdullincz@gmail.com){.email}
+-   <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/denis-abdullin-b7980413/)
+-   <i class="fa fa-github"></i> [Github](https://github.com/denisabd)
+-   <i class="fa fa-phone"></i> +420775259476
+-   <i class="fa fa-compass"></i> Rižska 1580/5, Prague CZ
+
+## Highlights {#highlights}
+
+-   Innovator
+-   Researcher
+-   Quick learner
+-   Motivator
+-   Complex problem solver
+
+## Skills {#skills}
+
+-   R Programming: package development, shiny, plumber, promises, prophet
+-   Machine Learning
+-   Time Series Forecasting
+-   BI/ETL Tools: Alteryx, Tableau
+-   Python
+-   SQL, Impala, ODBC
+-   Git, Docker
+-   Applied JavaScript for R/Python web/plotting frameworks
+
+## Languages {#languages}
+
+-   English, Czech, Russian
+
+
+# Main
+
+## Denis Abdullin {#title}
+
+### Manager, Data Science Innovation Team
+
+Data Science Manager/Principal Data Scientist with 6 years of experience in data science, analytics, and process improvement. Leading development of tools as well as engagements with internal customers. Highly proficient with machine learning, time series forecasting, web application development and functional programming in R. Creator of multiple internal R packages driving insights from the business data.
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### University of Economics
+
+M.S. in International Trade & Financial Sector Analysis
+
+Prague, Czech Republic
+
+2014
+
+### University of Economics
+
+B.S. in International Trade
+
+Prague, Czech Republic
+
+2011
+
+## Professional Experience {data-icon="suitcase"}
+
+### Data Science Manager
+
+Johnson & Johnson, GS Procurement
+
+Prague, CZ
+
+Feb 2020 - Present
+
+- Leading a high-performing team of 3 data scientists, focused on developing software, APIs, and web applications for business analytics, NLP and predictive analytics
+- Author of a suite of R packages for automated insights generation, including time series forecasting, anomaly detection, and NLG
+- Augmented analytics in Tableau using REST APIs and Tableau extensions, built internally
+- Serving customers and leading customer engagements across Procurement and Digital groups
+- Advocate and speaker, promoting internal software tools and data science within the entire J&J
+
+### Senior Analytics Specialist
+
+Johnson & Johnson, GS Procurement
+
+Prague, CZ
+
+Jul 2018 - Jan 2020
+
+-   Creation and deployment of machine learning models
+-   Author and maintainer of internal R package that covers the whole machine learning modelling and tracking pipeline
+-   Shiny Applications for machine learning and time series analysis
+-   Creation of time series/capacity planning framework with multiple applications across the enterprise
+
+### Data Analytics Associate
+
+Johnson & Johnson, GS Procurement
+
+Prague, CZ
+
+Sep 2016 - Jun 2018
+
+-   Creation of operational reporting that is utilized by hundreds of users
+-   Data engineering in ETL (Alteryx) and creation of dozens of reports in Tableau, including some of the most viewed in function
+-   Development of topic modelling, machine learning, NLP, time series and process mining solutions including high impact projects like help desk topic modelling and functional audit analysis
+
+### Master Data Specialist
+
+Johnson & Johnson, Global Services (GS) Finance
+
+Prague, CZ
+
+Apr 2014 - Aug 2016
+
+-   Various roles in EMEA Medical Devices customer master data team, from junior to specialist.
+-   Responsible for reporting automation, user templates creation and team performance tracking with heavy use of VBA and SQL
+
+## Products {data-icon="box"}
+
+#### Library for automated insights generation from tabular data
+ 
+#### Natural Language Generation (NLG) Library
+ 
+#### Scalable Platform for Real-Time data analytics
+Insighter - real-time analytics platform/application with lightning-fast database connection that allows to query the data with natural language term search, similar to commercial tools like [ThoughtSpot](https://www.thoughtspot.com/), modern visualizations using [Echarts](https://echarts.apache.org/en/index.html), forecasting, NLG, dynamic report generation, root-cause analysis. Adopted by both business customers and data professionals.
+
+#### Microservices (REST API) for Forecasting & NLG
+ 
+#### Tableau Extensions for Augmented Analytics Delivery
+ 
+## Awards {data-icon="award"}
+
+### Innovation Excellence Award
+
+Insighter, internal real-time analytics platform recognized as one of the most innovative solutions within the company at the J&J Data Science Showcase for savings tens of thousands hours on analytical requests annually.
+
+Global
+
+2023
+
+### Credo Award for reimagining Business Plan forecasting
+
+Created a framework for parallel computation and model parameter tuning, which allowed to make reliable forecast for thousands of business areas, speeding up the process 100+ times compared to initial baseline.
+
+Global
+
+2021
+
+### Runner-up in the enterprise-wide demand planning hackathon
+
+Took second place out if 200 participating teams in the all J&J hackathon related to forecasting shipment volumes for 240 SKUs.
+
+Global
+
+2020
+
+### Various Awards & Recognitions
+
+Various awards for innovative applications of ML, forecasting, automation and reporting
+
+Global
+
+2015-2022
